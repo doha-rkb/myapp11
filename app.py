@@ -1,1 +1,1 @@
-console.log("hello gi3");
+print ("hello gi3")
